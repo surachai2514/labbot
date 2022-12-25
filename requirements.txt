@@ -7,4 +7,7 @@ Jinja2
 MarkupSafe
 Werkzeug
 paho-mqtt
-cv2
+opencv-python
+os
+tempfile
+numpy
