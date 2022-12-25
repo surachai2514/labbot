@@ -7,4 +7,4 @@ Jinja2
 MarkupSafe
 Werkzeug
 paho-mqtt
-opencv
+opencv-python
