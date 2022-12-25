@@ -8,3 +8,4 @@ MarkupSafe
 Werkzeug
 paho-mqtt
 opencv-python
+matplotlib
