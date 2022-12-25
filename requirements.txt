@@ -1,0 +1,9 @@
+click
+flask
+line-bot-sdk
+gunicorn
+itsdangerous
+Jinja2
+MarkupSafe
+Werkzeug
+paho-mqtt
