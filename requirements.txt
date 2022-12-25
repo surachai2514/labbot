@@ -8,7 +8,6 @@ MarkupSafe
 Werkzeug
 paho-mqtt
 opencv-python
-os
 tempfile
 numpy
 matplotlib
